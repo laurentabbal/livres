@@ -1,4 +1,6 @@
-# LISTE DE 📙 
+# LISTE DE 📙 DU DOMAINE PUBLIC
+
+*Pour lecture sur liseuse (appareil / app).*
 
 Projet Gutenberg : https://www.gutenberg.org
 
